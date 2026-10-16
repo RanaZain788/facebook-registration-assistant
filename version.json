@@ -1,8 +1,8 @@
 {
-    "version": "1.0.9",
-    "title": "Facebook Registration Assistant Update v1.0.9",
+    "version": "1.0.10",
+    "title": "Facebook Registration Assistant Update v1.0.10",
     "release_date": "2026-10-16",
-    "description": "• 🛠️ Fixed UI Launch Bug: Resolved ComboBox dependency initialization on fresh start.\n• 👤 Male & Female Profile Selection: Choose between Random (Mixed), Male Only, or Female Only names & gender with 350+ realistic Facebook-friendly names.\n• 🔄 Guaranteed SMS Resend: Automatically triggers 'Send SMS Again' / 'Resend Code' on Facebook to guarantee immediate OTP delivery.\n• ⚡ Ultra-Fast 1.0s OTP Polling: Instant OTP inspection as soon as API link opens, with high-frequency 1.0s refresh intervals.\n• 🛡️ Hardcoded Apify Live UID Verification: Apify engine verifies active vs suspended profiles with zero false positives.",
+    "description": "• 👤 Strict Gender Matching: Fixed exact regex option selector so 'Male' never matches 'Female'.\n• 🔄 2-Stage SMS Resend Flow: Automatically clicks 'I didn't get the code', detects the options popup modal, and triggers 'Resend confirmation code' before retrieving OTP.\n• ⚡ Fast 1.0s OTP Polling & Apify Verification.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
