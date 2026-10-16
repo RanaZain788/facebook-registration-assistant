@@ -1,8 +1,8 @@
 {
-    "version": "1.0.7",
-    "title": "Facebook Registration Assistant Update v1.0.7",
+    "version": "1.0.8",
+    "title": "Facebook Registration Assistant Update v1.0.8",
     "release_date": "2026-10-16",
-    "description": "• 🛡️ 100% Guaranteed Apify Live UID Verification: Integrated official Apify FB UID Check Actor (ratulislam/fb-uid-check) with live token authentication. Every created account is tested directly against Facebook's servers with zero error margin.\n• 👤 Exact Profile Liveness Discrimination: Apify Actor validates both og:title metadata and fb://profile/ deep-link headers to separate genuine live accounts (e.g. Ethan Brown, Robert Anderson) from dead/checkpointed ones.\n• ⚙️ In-App Apify Token Configuration & Live Test: Dedicated settings panel in both Settings & Updates tab and Studio Settings dialog to manage your Apify API Token and run instant live connection health checks.\n• 🔄 Resilient Multi-Tier Fallback: If network to Apify is ever unreachable, the engine gracefully falls back to authenticated session /me and checkpoint inspection without interrupting batch execution.",
+    "description": "• 👤 Male & Female Profile Selection: Choose between Random (Mixed), Male Only, or Female Only names & gender with 350+ realistic Facebook-friendly names.\n• 🔄 Guaranteed SMS Resend: Automatically triggers 'Send SMS Again' / 'Resend Code' on Facebook to guarantee immediate OTP delivery.\n• ⚡ Ultra-Fast 1.0s OTP Polling: Instant OTP inspection as soon as API link opens, with high-frequency 1.0s refresh intervals.\n• 🛡️ Hardcoded Apify Live UID Verification: Apify engine verifies active vs suspended profiles with zero false positives.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
