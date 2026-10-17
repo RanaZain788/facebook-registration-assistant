@@ -1,8 +1,8 @@
 {
-    "version": "1.1.0",
-    "title": "Facebook Registration Assistant Update v1.1.0",
+    "version": "1.1.1",
+    "title": "Facebook Registration Assistant Update v1.1.1",
     "release_date": "2026-10-17",
-    "description": "• 🔄 Smart Registration Submit Retry: Automatically retries form submission up to 3 times without reloading on 'an error'.\n• 🔁 OTP Resend Retry & Config: Customizable OTP SMS resend count (1-5x) with 3-attempt retry on OTP page errors.\n• 📋 Exact Sheet Error Labels: Outputs strictly 'an error' for registration page errors and 'otp page an error' for OTP errors.\n• 🗑️ Master Reset All Button: Clears all input numbers, queue, history records, and counters in 1 click.\n• ⚙️ Settings Tabs Redesign: Two dedicated tabs for 'ID Creating Settings' and 'Software Settings'.",
+    "description": "• 🪟 Fixed Browser Dimensions & CDP Window Locking: Browser windows strictly locked to 3x2 grid (640x510) and immune to main window resizing.\n• ⚙️ Single Dashboard Settings Button: Clean studio layout with direct navigation to Settings.\n• 🎨 Fixed Layout Overlaps & SpinBox Visibility: Header spacing and clear typography across all screens.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
