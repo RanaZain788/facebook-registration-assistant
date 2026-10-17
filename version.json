@@ -1,8 +1,8 @@
 {
-    "version": "1.1.1",
-    "title": "Facebook Registration Assistant Update v1.1.1",
+    "version": "1.1.2",
+    "title": "Facebook Registration Assistant Update v1.1.2",
     "release_date": "2026-10-17",
-    "description": "• 🪟 Fixed Browser Dimensions & CDP Window Locking: Browser windows strictly locked to 3x2 grid (640x510) and immune to main window resizing.\n• ⚙️ Single Dashboard Settings Button: Clean studio layout with direct navigation to Settings.\n• 🎨 Fixed Layout Overlaps & SpinBox Visibility: Header spacing and clear typography across all screens.",
+    "description": "• 🌐 Proxy-Bypass & WinError 10061 Fix: Automatic direct-connection fallback for updates and Apify live UID verification.\n• ⚡ Direct Background OTP Polling: Zero browser tabs opened for OTP, preventing window resize and flicker.\n• 🪟 Locked 640x510 Window Sizing: Chromium strictly forced to normal 640x510 bounds with CDP lock.\n• 🛡️ Strict OTP Verification: 'otp not received' error with zero UID disclosure until OTP is confirmed submitted.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
