@@ -1,8 +1,8 @@
 {
-    "version": "1.0.11",
-    "title": "Facebook Registration Assistant Update v1.0.11",
+    "version": "1.1.0",
+    "title": "Facebook Registration Assistant Update v1.1.0",
     "release_date": "2026-10-17",
-    "description": "• 📋 1-Click Copy for Google Sheets: Copies results (UID, Suspend, Error) line-by-line in exact order for instant vertical Ctrl+V pasting next to numbers.\n• 🎯 True Error Reporting: Differentiates real suspensions from network errors, OTP timeouts, or captcha issues (no false 'Suspend' labels).\n• 👤 Exact Gender Selection & 2-Stage SMS Resend Flow.",
+    "description": "• 🔄 Smart Registration Submit Retry: Automatically retries form submission up to 3 times without reloading on 'an error'.\n• 🔁 OTP Resend Retry & Config: Customizable OTP SMS resend count (1-5x) with 3-attempt retry on OTP page errors.\n• 📋 Exact Sheet Error Labels: Outputs strictly 'an error' for registration page errors and 'otp page an error' for OTP errors.\n• 🗑️ Master Reset All Button: Clears all input numbers, queue, history records, and counters in 1 click.\n• ⚙️ Settings Tabs Redesign: Two dedicated tabs for 'ID Creating Settings' and 'Software Settings'.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
