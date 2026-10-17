@@ -1,8 +1,8 @@
 {
-    "version": "1.0.10",
-    "title": "Facebook Registration Assistant Update v1.0.10",
-    "release_date": "2026-10-16",
-    "description": "• 👤 Strict Gender Matching: Fixed exact regex option selector so 'Male' never matches 'Female'.\n• 🔄 2-Stage SMS Resend Flow: Automatically clicks 'I didn't get the code', detects the options popup modal, and triggers 'Resend confirmation code' before retrieving OTP.\n• ⚡ Fast 1.0s OTP Polling & Apify Verification.",
+    "version": "1.0.11",
+    "title": "Facebook Registration Assistant Update v1.0.11",
+    "release_date": "2026-10-17",
+    "description": "• 📋 1-Click Copy for Google Sheets: Copies results (UID, Suspend, Error) line-by-line in exact order for instant vertical Ctrl+V pasting next to numbers.\n• 🎯 True Error Reporting: Differentiates real suspensions from network errors, OTP timeouts, or captcha issues (no false 'Suspend' labels).\n• 👤 Exact Gender Selection & 2-Stage SMS Resend Flow.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
