@@ -4,5 +4,5 @@
     "release_date": "2026-10-17",
     "description": "• 🚀 Low-End PC & Ultra Performance Optimization: Streamlined Chromium flags, media blocking, and RAM garbage collection for smooth execution on low-spec PCs.\n• ⚡ Direct Background OTP Polling: Zero browser tabs opened for OTP, preventing window resize and flicker.\n• 🎨 Modern Design & Glassmorphism: Polished stat cards with colored accents, sleek status terminal strip, and refined button aesthetics.\n• 🛡️ Strict OTP Verification: 'otp not received' error with zero UID disclosure until OTP is confirmed submitted.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
-    "mandatory": false
+    "mandatory": true
 }
