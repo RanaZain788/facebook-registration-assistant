@@ -1,8 +1,8 @@
 {
-    "version": "1.1.4",
-    "title": "Facebook Registration Assistant Update v1.1.3",
-    "release_date": "2026-10-17",
-    "description": "• 🚀 Low-End PC & Ultra Performance Optimization: Streamlined Chromium flags, media blocking, and RAM garbage collection for smooth execution on low-spec PCs.\n• ⚡ Direct Background OTP Polling: Zero browser tabs opened for OTP, preventing window resize and flicker.\n• 🎨 Modern Design & Glassmorphism: Polished stat cards with colored accents, sleek status terminal strip, and refined button aesthetics.\n• 🛡️ Strict OTP Verification: 'otp not received' error with zero UID disclosure until OTP is confirmed submitted.",
+    "version": "1.2.86",
+    "title": "Facebook Registration Assistant Update v1.2.86",
+    "release_date": "2026-10-20",
+    "description": "• 🛡️ Zero False Positives on OTP Page: Completely removed generic [role='dialog'] checking that previously misidentified the SMS resend options modal as an error, preventing premature browser closures.\n• ⚡ Non-Aborting Resend Flow: Resend SMS cycles complete gracefully without killing tasks even if cooldowns or prompt dialogs appear.\n• ⏱️ Extended OTP Polling Window: Polling timeout extended to 60s with automatic dialog dismissal, ensuring the browser stays open until real OTP is received and processed.\n• 🎯 Strict Error Verification: Only explicit, confirmed Facebook error banners (e.g. rate limit, invalid mobile) trigger error states; no spurious errors displayed.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
-    "mandatory": true
+    "mandatory": false
 }
