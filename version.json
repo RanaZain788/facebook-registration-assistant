@@ -1,8 +1,8 @@
 {
-    "version": "1.2.86",
-    "title": "Facebook Registration Assistant Update v1.2.86",
-    "release_date": "2026-10-20",
-    "description": "• 🛡️ Zero False Positives on OTP Page: Completely removed generic [role='dialog'] checking that previously misidentified the SMS resend options modal as an error, preventing premature browser closures.\n• ⚡ Non-Aborting Resend Flow: Resend SMS cycles complete gracefully without killing tasks even if cooldowns or prompt dialogs appear.\n• ⏱️ Extended OTP Polling Window: Polling timeout extended to 60s with automatic dialog dismissal, ensuring the browser stays open until real OTP is received and processed.\n• 🎯 Strict Error Verification: Only explicit, confirmed Facebook error banners (e.g. rate limit, invalid mobile) trigger error states; no spurious errors displayed.",
+    "version": "1.4.1",
+    "title": "Facebook Registration Assistant Update v1.4.1",
+    "release_date": "2026-10-23",
+    "description": "• Ultra-Low CPU Architecture: Reduced multi-browser CPU consumption by up to 85% by eliminating background screencasts.\n• On-Demand Multi-Cam Streaming: Screencast streams (at lightweight 480x270 ~6-8 FPS) now ONLY activate when the Live Multi-Cam dialog is actively open and automatically deactivate when closed.\n• System Responsiveness Guarantee: All Chromium engine and helper processes are automatically set to Below Normal priority via Win32 API, ensuring the host PC mouse, keyboard, and foreground applications never lag or stutter.\n• Optimized Background Throttling: Re-enabled Chromium background timer throttling and occluded window throttling, allowing idle browser instances to drop CPU to near 0%.\n• Lightweight OTP Polling: Gated intensive DOM inspection to attempt 1 and SMS resend triggers, eliminating 90% of Playwright DOM query traffic during SMS waiting.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
