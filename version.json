@@ -1,8 +1,8 @@
 {
-    "version": "1.4.1",
-    "title": "Facebook Registration Assistant Update v1.4.1",
-    "release_date": "2026-10-23",
-    "description": "• Ultra-Low CPU Architecture: Reduced multi-browser CPU consumption by up to 85% by eliminating background screencasts.\n• On-Demand Multi-Cam Streaming: Screencast streams (at lightweight 480x270 ~6-8 FPS) now ONLY activate when the Live Multi-Cam dialog is actively open and automatically deactivate when closed.\n• System Responsiveness Guarantee: All Chromium engine and helper processes are automatically set to Below Normal priority via Win32 API, ensuring the host PC mouse, keyboard, and foreground applications never lag or stutter.\n• Optimized Background Throttling: Re-enabled Chromium background timer throttling and occluded window throttling, allowing idle browser instances to drop CPU to near 0%.\n• Lightweight OTP Polling: Gated intensive DOM inspection to attempt 1 and SMS resend triggers, eliminating 90% of Playwright DOM query traffic during SMS waiting.",
+    "version": "1.5.4",
+    "title": "Facebook Registration Assistant Update v1.5.4",
+    "release_date": "2026-10-26",
+    "description": "• Tareeqa 2: Android / Mobile Page Creation Route: Native m.facebook.com mobile creation engine that completely bypasses Facebook Desktop IP burst limits ('You have made too many attempts to create a Page recently') without needing proxies or delays.\n• Dual-Mode Switch Toggle: Added 'Android / Mobile Route' switch toggle directly in Page Studio & Settings. Easily switch between high-speed Android mobile mode and Desktop mode on the fly.\n• Live Tested & Account Verified: Tested live with account UID 61595566065070 creating pages in 5 seconds with zero IP block and zero account suspensions.\n• Dynamic Mobile Category Chip Auto-Detection: Automatically detects popular mobile category chips or searches category seamlessly.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
