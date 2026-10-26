@@ -1,8 +1,8 @@
 {
-    "version": "1.6.0",
-    "title": "Facebook Registration Assistant Update v1.6.0",
+    "version": "1.7.3",
+    "title": "Facebook Registration Assistant Update v1.7.3",
     "release_date": "2026-10-26",
-    "description": "• Auto-Detect Pre-opened Portfolio Modal: Immediately fills and submits 'Create your business portfolio' if already open, or triggers it via 'Continue with Facebook' if not open.\n• Elimination of False Success & Blank Tab Leaks: Never clicks external target='_blank' links on 'Unable to access Meta Business Suite' screens. Directs straight to business portfolio setup.\n• 100% Genuine 3-Way Live Verification: Strictly verifies page existence in Meta Business Suite and Pages Manager before saving to database or marking Success. Traps rate limit dialogs accurately.\n• Cookie Health & Expiry Auto-Detector: Fast multi-threaded pre-flight testing to instantly categorize cookies as Active, Checkpoint, or Expired with a 1-click 'Keep Active Only' queue filter.\n• Cyberpunk UI & Compact Controls: Polished spinboxes, 1s/2s/3s/None pacing delays, and 4s/5s/6s airplane holds.",
+    "description": "• Dedicated Page Checker & Cookie Inspector Tab: 1-click bulk cookie inspector to verify session validity and detect created Facebook Pages.\n• Multi-Threaded Verification Engine: High-speed background verification (8 concurrent workers) with zero browser GUI requirement.\n• Live Telemetry & KPI Cards: Real-time tracking of Pages Created, No Pages Yet, and Expired/Checkpoint accounts.\n• Smart Export Pipelines: 1-click export of 'With Pages' (managed accounts), 'Without Pages' (clean accounts ready for creation), and Full CSV report.\n• Database & File Import: Seamlessly import cookies directly from TXT/CSV or local Records SQLite database.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
