@@ -1,8 +1,8 @@
 {
-    "version": "1.7.3",
-    "title": "Facebook Registration Assistant Update v1.7.3",
+    "version": "1.7.4",
+    "title": "Facebook Registration Assistant Update v1.7.4",
     "release_date": "2026-10-26",
-    "description": "• Dedicated Page Checker & Cookie Inspector Tab: 1-click bulk cookie inspector to verify session validity and detect created Facebook Pages.\n• Multi-Threaded Verification Engine: High-speed background verification (8 concurrent workers) with zero browser GUI requirement.\n• Live Telemetry & KPI Cards: Real-time tracking of Pages Created, No Pages Yet, and Expired/Checkpoint accounts.\n• Smart Export Pipelines: 1-click export of 'With Pages' (managed accounts), 'Without Pages' (clean accounts ready for creation), and Full CSV report.\n• Database & File Import: Seamlessly import cookies directly from TXT/CSV or local Records SQLite database.",
+    "description": "• Meta Business Suite 200% Input Target Verification: Completely eliminated accidental typing into search bars/other fields with strict dialog container scoping and input value read-back validation.\n• Guaranteed Page Verification: Zero fake successes — every created Page is independently verified across Meta Business Settings, Personal Pages portal, and live RelayModern API endpoints.\n• Seamless Resilience: Automatic smart fallback to Mobile Page Creator when Meta Business Suite access is restricted for an account.\n• Version Synchronization: Consistent v1.7.4 display across all headers, status badges, Settings, Page Studio, and Window Titles.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
