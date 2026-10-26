@@ -1,8 +1,8 @@
 {
-    "version": "1.5.4",
-    "title": "Facebook Registration Assistant Update v1.5.4",
+    "version": "1.6.0",
+    "title": "Facebook Registration Assistant Update v1.6.0",
     "release_date": "2026-10-26",
-    "description": "• Tareeqa 2: Android / Mobile Page Creation Route: Native m.facebook.com mobile creation engine that completely bypasses Facebook Desktop IP burst limits ('You have made too many attempts to create a Page recently') without needing proxies or delays.\n• Dual-Mode Switch Toggle: Added 'Android / Mobile Route' switch toggle directly in Page Studio & Settings. Easily switch between high-speed Android mobile mode and Desktop mode on the fly.\n• Live Tested & Account Verified: Tested live with account UID 61595566065070 creating pages in 5 seconds with zero IP block and zero account suspensions.\n• Dynamic Mobile Category Chip Auto-Detection: Automatically detects popular mobile category chips or searches category seamlessly.",
+    "description": "• Auto-Detect Pre-opened Portfolio Modal: Immediately fills and submits 'Create your business portfolio' if already open, or triggers it via 'Continue with Facebook' if not open.\n• Elimination of False Success & Blank Tab Leaks: Never clicks external target='_blank' links on 'Unable to access Meta Business Suite' screens. Directs straight to business portfolio setup.\n• 100% Genuine 3-Way Live Verification: Strictly verifies page existence in Meta Business Suite and Pages Manager before saving to database or marking Success. Traps rate limit dialogs accurately.\n• Cookie Health & Expiry Auto-Detector: Fast multi-threaded pre-flight testing to instantly categorize cookies as Active, Checkpoint, or Expired with a 1-click 'Keep Active Only' queue filter.\n• Cyberpunk UI & Compact Controls: Polished spinboxes, 1s/2s/3s/None pacing delays, and 4s/5s/6s airplane holds.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
