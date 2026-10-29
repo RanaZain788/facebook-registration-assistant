@@ -1,8 +1,8 @@
 {
-    "version": "1.7.4",
-    "title": "Facebook Registration Assistant Update v1.7.4",
-    "release_date": "2026-10-26",
-    "description": "• Meta Business Suite 200% Input Target Verification: Completely eliminated accidental typing into search bars/other fields with strict dialog container scoping and input value read-back validation.\n• Guaranteed Page Verification: Zero fake successes — every created Page is independently verified across Meta Business Settings, Personal Pages portal, and live RelayModern API endpoints.\n• Seamless Resilience: Automatic smart fallback to Mobile Page Creator when Meta Business Suite access is restricted for an account.\n• Version Synchronization: Consistent v1.7.4 display across all headers, status badges, Settings, Page Studio, and Window Titles.",
+    "version": "1.7.8",
+    "title": "Facebook Registration Assistant Update v1.7.8",
+    "release_date": "2026-10-29",
+    "description": "🔥 Account Warmup Studio: Dedicated tab for mass cookie warmup with randomized authentic human behaviors (feed scrolling, watching videos, checking profiles, safe reactions).\n🛡️ Auto-Warmup on ID Creation: Automatically warms up newly created accounts immediately after registration to establish instant trust.\n📂 Persistent Search Selection: Ticked accounts in 'Load from History' stay ticked across multiple searches and filters in both Page Studio and Warmup Studio.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
