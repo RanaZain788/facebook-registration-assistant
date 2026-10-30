@@ -1,8 +1,8 @@
 {
-    "version": "1.7.8",
-    "title": "Facebook Registration Assistant Update v1.7.8",
-    "release_date": "2026-10-29",
-    "description": "🔥 Account Warmup Studio: Dedicated tab for mass cookie warmup with randomized authentic human behaviors (feed scrolling, watching videos, checking profiles, safe reactions).\n🛡️ Auto-Warmup on ID Creation: Automatically warms up newly created accounts immediately after registration to establish instant trust.\n📂 Persistent Search Selection: Ticked accounts in 'Load from History' stay ticked across multiple searches and filters in both Page Studio and Warmup Studio.",
+    "version": "1.8.4",
+    "title": "Facebook Registration Assistant Update v1.8.4",
+    "release_date": "2026-10-31",
+    "description": "6-Chrome simultaneous screen tiling grid, automatic FB account logout on creation, and automatic profile directory deletion after task completion.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
