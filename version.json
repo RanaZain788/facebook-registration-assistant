@@ -1,8 +1,8 @@
 {
-    "version": "1.8.5",
-    "title": "Facebook Registration Assistant Update v1.8.4",
-    "release_date": "2026-10-31",
-    "description": "6-Chrome simultaneous screen tiling grid, automatic FB account logout on creation, and automatic profile directory deletion after task completion.",
+    "version": "2.0.7",
+    "title": "Facebook Registration Assistant Update v2.0.7 (Animated Startup Splash & Zero Black-Screen Engine)",
+    "release_date": "2026-11-01",
+    "description": "Introduced dedicated GPU-accelerated Animated SplashScreen that launches instantly upon startup, eliminating initial black screens. Features smooth glowing progress animations, multi-step environment status telemetry, and seamless fade transitions.",
     "download_url": "https://github.com/RanaZain788/facebook-registration-assistant/releases/latest/download/FacebookRegistrationAssistant_Setup.exe",
     "mandatory": false
 }
